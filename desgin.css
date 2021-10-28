@@ -1,5 +1,26 @@
-body{
-  background-color: #757575;
+
+ h1{
+
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    word-wrap: break-word;
+    margin: 30px;
+    position: fixed;
+    top: 0;
+    left: 30%;
+    font-size: 40px;
  }
 
- 
+nav {
+  float: left;
+  display: inline;
+  padding: 14px 100px;
+  background: #dddddd;
+  text-align: center;
+  overflow: hidden;
+  background-color: grey;
+  position: sticky;
+  top: 0;
+
+}
